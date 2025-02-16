@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+   --primary-color: #6E6CDF;
+   --white-color: #ffffff;
+   --black-color: #212121;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   scroll-behavior: smooth;
+   box-sizing: border-box;
+   transition: 0.5s;
+   overflow-wrap: break-word;
+}
+
+html,
+body {
+   background-color: var(--white-color);
+   overflow-x: hidden;
+   width: 100dvw;
+   height: 100dvh;
+   color: var(--black-color);
+   font-family: 'Afacad', sans-serif;
+   scroll-behavior: smooth;
+}
+
+main {
+   height: 100%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   gap: 12px;
+
+   span {
+      font-size: 24px;
+      color: var(--primary-color);
+      font-weight: 600;
+   }
+
+   #time {
+      font-size: 64px;
+      font-weight: 700;
+   }
+}
+
+@media only screen and (max-width: 480px) {
+
+   main {
+      span {
+         font-size: 16px;
+      }
+
+      #time {
+         font-size: 48px;
+      }
+   }
+}
+
+@media (min-width: 481px) and (max-width: 600px) {
+   main {
+      span {
+         font-size: 18px;
+      }
+
+      #time {
+         font-size: 54px;
+      }
+   }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+
+   main {
+
+      span {
+         font-size: 20px;
+      }
+
+      #time {
+         font-size: 58px;
+      }
+   }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+   main {
+
+      span {
+         font-size: 22px;
+      }
+
+      #time {
+         font-size: 60px;
+      }
+   }
+}
+
+@media (min-width: 993px) and (max-width: 1200px) {
+   main {
+
+      span {
+         font-size: 24px;
+      }
+
+      #time {
+         font-size: 64px;
+      }
+   }
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+   main {
+
+      span {
+         font-size: 24px;
+      }
+
+      #time {
+         font-size: 64px;
+      }
+   }
+}
+
+@media (min-width: 1601px) {
+   main {
+
+      span {
+         font-size: 28px;
+      }
+
+      #time {
+         font-size: 68px;
+      }
+   }
+}
